@@ -7,7 +7,7 @@ Participants:
 - Member: [Trương Minh Khiết - 19520628]
 
 
-Task management table: [here](https:https://trello.com/b/a2ok0XmJ/qu%E1%BA%A3n-l%C3%AD-gi%E1%BA%A3i-b%C3%B3ng-%C4%91%C3%A1) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/a2ok0XmJ/qu%E1%BA%A3n-l%C3%AD-gi%E1%BA%A3i-b%C3%B3ng-%C4%91%C3%A1) 
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
