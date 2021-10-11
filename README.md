@@ -1,4 +1,4 @@
-# Document for CS4273 classes
+# Quản lí giải bóng đá VĐGQ
 
 Participants:
 
